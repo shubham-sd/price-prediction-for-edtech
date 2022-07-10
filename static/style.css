@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(22, 39, 39);
+    text-align: center;
+    /* background-color: black; */
+}
+
+label {
+    margin: 0 auto;
+
+}
+
+input {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
