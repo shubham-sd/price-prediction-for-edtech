@@ -28,7 +28,7 @@ and model building, ***Flask*** for web application, and ***heroku*** for deploy
 
 ## EDA and Data Preprocessing
 
-Not much Preprocessing was needed, removed some unnecessary columns
+Not much Preprocessing was needed, droped irrelevant columns
 
 ## Model building
 In order to get the best accuracy following models were used:
